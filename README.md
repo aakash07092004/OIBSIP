@@ -73,3 +73,43 @@ This project was built as a submission for a **Task 2 - Personal Portfolio** of 
     * Flexbox
     * Media Queries
     * CSS Custom Properties (Variables)
+ 
+
+
+
+# Task3: Temperature Converter
+A simple, clean, and responsive web application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
+This project was built as a submission for **Task 3 (Temperature Converter)** of the **Oasis Infobyte Web Development and Designing Internship (Level 1)**.
+
+
+##  Screenshot
+
+![Temperature Converter Screenshot](./screenshot3.png)
+
+
+---
+
+##  Features
+
+* **HTML5 & CSS3:** A clean, modern, and fully responsive card-based interface.
+* **JavaScript Logic:** All conversion logic is handled on the client-side with vanilla JavaScript.
+* **Multi-Unit Conversion:** Smoothly converts between:
+    * Celsius (°C)
+    * Fahrenheit (°F)
+    * Kelvin (K)
+* **Efficient Logic:** Uses a smart, two-step conversion process:
+    1.  First, the input value is converted to a base unit (Celsius).
+    2.  Second, the Celsius value is converted to the target unit.
+* **Input Validation:** The app checks if the input is a valid number and displays an error message if it's not.
+* **Dynamic DOM Updates:** The result area is updated instantly on button click, showing either the successful conversion or an error message.
+
+---
+
+##  Technologies Used
+
+* **HTML5**
+* **CSS3**
+    * Flexbox for layout and centering.
+    * Modern styling for form elements and buttons.
+* **JavaScript**
+
