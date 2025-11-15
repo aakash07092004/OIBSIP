@@ -1,16 +1,10 @@
 # Oasis Infobyte Internship- Task Completion
 
+
 #  Task 1:Earthen - Responsive Landing Page
 This project is a clean, modern, and fully responsive landing page for "Earthen," a fictional sustainable goods brand.
 This project was built as a submission for **Task 1 (Landing Page)** of the **Oasis Infobyte Web Development and Designing Internship (Level 1)**.
 
-##  Live Demo
-
-[**View Live Demo**](https://your-github-username.github.io/your-repo-name/)
-
-*(Replace the link above with your live GitHub Pages or Vercel link)*
-
----
 
 ## 📸 Screenshot
 
