@@ -1,5 +1,5 @@
 # Oasis Infobyte Internship- Task Completion
-
+This repository contains the completed tasks for the Oasis Infobyte internship. In this internship, I had the opportunity to work on various tasks at different levels, and I selected Level-1 for my project.
 
 #  Task 1:Earthen - Responsive Landing Page
 This project is a clean, modern, and fully responsive landing page for "Earthen," a fictional sustainable goods brand.
