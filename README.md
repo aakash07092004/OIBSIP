@@ -6,7 +6,7 @@ This project is a clean, modern, and fully responsive landing page for "Earthen,
 This project was built as a submission for **Task 1 (Landing Page)** of the **Oasis Infobyte Web Development and Designing Internship (Level 1)**.
 
 
-## 📸 Screenshot
+##  Screenshot
 
 ![Earthen Landing Page Screenshot](./screenshot1.png)
 
@@ -14,7 +14,7 @@ This project was built as a submission for **Task 1 (Landing Page)** of the **Oa
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Semantic HTML5:** Structured with semantic tags like `<header>`, `<main>`, `<section>`, and `<footer>` for better accessibility and SEO.
 * **Sticky Navigation:** A navigation bar that sticks to the top of the page for easy access.
@@ -25,7 +25,7 @@ This project was built as a submission for **Task 1 (Landing Page)** of the **Oa
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 * **HTML5**
 * **CSS3**
