@@ -8,7 +8,7 @@ This project was built as a submission for **Task 1 (Landing Page)** of the **Oa
 
 ## 📸 Screenshot
 
-![Earthen Landing Page Screenshot](./screenshot.png)
+![Earthen Landing Page Screenshot](./11.png)
 
 *(Add a screenshot of your project to the repository and name it `screenshot.png` or update the path here)*
 
