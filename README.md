@@ -34,3 +34,40 @@ This project was built as a submission for **Task 1 (Landing Page)** of the **Oa
     * Media Queries
     * CSS Custom Properties (Variables)
 * **Google Fonts** (Inter)
+
+
+# Task2: Personal Portfolio Website
+This is a clean, modern, and responsive personal portfolio website. It's designed to introduce "Aakash" as an aspiring web developer and showcase his projects.
+This project was built as a submission for a **Task 2 - Personal Portfolio** of the **Oasis Infobyte Web Development and Designing Internship (Level 1)**.
+
+
+##  Screenshot
+
+![Portfolio Screenshot](./screenshot2.png)
+
+
+
+---
+
+##  Features
+
+* **Semantic HTML5:** Well-structured markup using `<nav>`, `<header>`, `<main>`, `<section>`, and `<footer>` for accessibility and SEO.
+* **Responsive Design:** Fully responsive layout that adapts from mobile to desktop screens using **CSS Grid** (`auto-fit`, `minmax`) and a flexible navigation menu.
+* **Sticky Navigation:** The navigation bar remains "stuck" to the top of the viewport for easy navigation.
+* **Modern CSS:**
+    * **CSS Custom Properties (`:root`)** are used for an easy-to-manage and consistent color scheme.
+    * **Flexbox** is used for aligning navigation items.
+    * **CSS Grid** is used for the responsive project gallery.
+* **Interactive UI:** Smooth hover effects on project cards and buttons to provide visual feedback to the user.
+* **Project Showcase:** A clean card-based layout to display projects, including the "Cafe Management System" built with Python.
+
+---
+
+##  Technologies Used
+
+* **HTML5**
+* **CSS3**
+    * CSS Grid
+    * Flexbox
+    * Media Queries
+    * CSS Custom Properties (Variables)
