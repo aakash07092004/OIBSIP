@@ -36,6 +36,8 @@ This project was built as a submission for **Task 1 (Landing Page)** of the **Oa
 * **Google Fonts** (Inter)
 
 
+
+
 # Task2: Personal Portfolio Website
 This is a clean, modern, and responsive personal portfolio website. It's designed to introduce "Aakash" as an aspiring web developer and showcase his projects.
 This project was built as a submission for a **Task 2 - Personal Portfolio** of the **Oasis Infobyte Web Development and Designing Internship (Level 1)**.
