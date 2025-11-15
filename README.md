@@ -12,7 +12,6 @@ This project was built as a submission for **Task 1 (Landing Page)** of the **Oa
 
 
 
----
 
 ##  Features
 
@@ -23,7 +22,7 @@ This project was built as a submission for **Task 1 (Landing Page)** of the **Oa
 * **CSS Custom Properties:** Uses CSS variables (`:root`) for a clean, maintainable color palette and easy theme management.
 * **Single-Page Design:** A smooth-scrolling single-page experience using anchor links.
 
----
+
 
 ##  Technologies Used
 
@@ -49,7 +48,6 @@ This project was built as a submission for a **Task 2 - Personal Portfolio** of 
 
 
 
----
 
 ##  Features
 
@@ -63,7 +61,7 @@ This project was built as a submission for a **Task 2 - Personal Portfolio** of 
 * **Interactive UI:** Smooth hover effects on project cards and buttons to provide visual feedback to the user.
 * **Project Showcase:** A clean card-based layout to display projects, including the "Cafe Management System" built with Python.
 
----
+
 
 ##  Technologies Used
 
@@ -87,7 +85,6 @@ This project was built as a submission for **Task 3 (Temperature Converter)** of
 ![Temperature Converter Screenshot](./screenshot3.png)
 
 
----
 
 ##  Features
 
@@ -103,7 +100,7 @@ This project was built as a submission for **Task 3 (Temperature Converter)** of
 * **Input Validation:** The app checks if the input is a valid number and displays an error message if it's not.
 * **Dynamic DOM Updates:** The result area is updated instantly on button click, showing either the successful conversion or an error message.
 
----
+
 
 ##  Technologies Used
 
